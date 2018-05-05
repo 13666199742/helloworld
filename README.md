@@ -1,2 +1,1 @@
 # helloworld
-printf helloword;
